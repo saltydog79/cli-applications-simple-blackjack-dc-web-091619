@@ -46,8 +46,6 @@ number
 end
 end
 
-return number
-end
 
 
 
