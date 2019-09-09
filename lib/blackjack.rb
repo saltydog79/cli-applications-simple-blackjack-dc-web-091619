@@ -42,7 +42,7 @@ end
 if input == "h"
       number += deal_card
   elsif input == "s"
-
+number
 end
 end
 
